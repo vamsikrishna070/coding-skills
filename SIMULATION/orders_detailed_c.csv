@@ -1,0 +1,3 @@
+id,express,arrival,delivered,final_stage,time_in_system
+1,1,0.000,2.559,DELIVERED,2.559
+2,0,3.000,8.227,DELIVERED,5.227

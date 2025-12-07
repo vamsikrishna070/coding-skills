@@ -1,0 +1,15 @@
+----- ALL STUDENTS -----
+
+ID: AP24110011830
+Name: B Thanishka Varma
+Branch: CSE
+Section: B
+CGPA: 8.62
+Phone: 9154683235
+
+ID: AP24110010102
+Name: K Vamsi Krishna
+Branch: CSE
+Section: C
+CGPA: 8.92
+Phone: 9154054222
